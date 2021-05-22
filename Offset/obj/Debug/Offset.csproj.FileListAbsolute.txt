@@ -1,0 +1,7 @@
+C:\Users\zharkov-na\source\repos\Offset\Offset\bin\Debug\Offset.exe.config
+C:\Users\zharkov-na\source\repos\Offset\Offset\bin\Debug\Offset.exe
+C:\Users\zharkov-na\source\repos\Offset\Offset\bin\Debug\Offset.pdb
+C:\Users\zharkov-na\source\repos\Offset\Offset\obj\Debug\Offset.csprojAssemblyReference.cache
+C:\Users\zharkov-na\source\repos\Offset\Offset\obj\Debug\Offset.csproj.CoreCompileInputs.cache
+C:\Users\zharkov-na\source\repos\Offset\Offset\obj\Debug\Offset.exe
+C:\Users\zharkov-na\source\repos\Offset\Offset\obj\Debug\Offset.pdb
