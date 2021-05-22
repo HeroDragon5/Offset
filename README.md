@@ -4,7 +4,7 @@
 
 # Screenshots
 
-![Screenshot](https://ibb.co/SrmSCCV)
+![Screenshot](https://i.ibb.co/tX2RrrY/1.png)
 
 # Installation
 git clone https://github.com/HeroDragon5/Offset
